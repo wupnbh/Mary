@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>balibali(balibali.com)</title> 
+<style>
+ body
+ {
+  margin: 0;
+}
+.header {
+    background-image:url('https://bpic.588ku.com/back_origin_min_pic/21/03/15/65452b4ab35db41c3e76847c7c394fa9.jpg!/fw/750/quality/99/unsharp/true/compress/true');
+  padding: 70px;
+  background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center; 
+    background-repeat: repeat-x
+}
+body
+{
+        background-image:url('https://img.tukuppt.com/ad_preview/00/22/02/5c9a393ceadf6.jpg!/fw/980');
+       
+        background-repeat: repeat-x repeat-y
+    }
+    p{
+        color: #FFFFFF;
+        background-color: #435e63;
+        width: 70px;
+    }
+.dropbtn {
+    display:block;
+	width:120px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#808d59;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #d4ebc8;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+    color: rgb(0, 0, 0);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #567874;
+}
+div.img {
+    border: 2px solid #ccc;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>   </h1>
+      </div>
+    <div class="dropdown">
+        <button class="dropbtn">主页</button>
+        <div class="dropdown-content">
+         <a href="https://www.zcool.com.cn/work/ZNDk5MTA2MjA=.html">图片来源</a>
+         <a href="https://www.zcool.com.cn/work/ZNTYzODM4NTY=.html">更多资源</a>
+         <a href="https://www.51mo.com/search/31536-0-zhot-all/p_1/?cate=0&keyword=%E5%9B%BD%E9%A3%8E&utm_source=360a&utm_term=2872501&qhclickid=e10b32eca34c40d0">自由设计</a>
+        </div>
+        </div>
+<div class="dropdown">
+<button class="dropbtn">学习</button>
+<div class="dropdown-content">
+ <a href="https://www.bilibili.com/video/BV1ii4y1P7eX/">b站教程</a>
+ <a href="https://zhuanlan.zhihu.com/p/419587301">知乎教程</a>
+ <a href="https://www.xiaohongshu.com/explore">小红书教程</a>
+</div>
+</div>
+<div class="dropdown">
+    <button class="dropbtn">关于</button>
+    <div class="dropdown-content">
+     <a href="https://www.chinavid.com/chinese-color.html">关于色彩</a>
+     <a href="https://wenyi.gmw.cn/2021-12/01/content_35350765.htm">关于国风“出圈”</a>
+     <a href="https://www.zhihu.com/question/270301866">关于临摹素材</a>
+    </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">联系</button>
+        <div class="dropdown-content">
+         <a href="https://mail.qq.com/cgi-bin/frame_html?sid=hBTTaMbFbRX5siVA&r=fe864874b00511e8e54d7e6f9fdccbf8&lang=zh">QQ邮箱</a>
+         <a href="https://wx.qq.com/">微信</a>
+         <a href="https://pic4.zhimg.com/v2-01b3e8a3fc042c09e4a050bd199c6bf7_r.jpg">面对面</a>
+        </div>
+        </div>
+</div>
+</ul>
+<p>开始探索</p>
+<form>
+  <input type="text" name="search" placeholder="最新资讯...">
+</form>
+<h2 style="text-align:center">例图展示</h2>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank" href="img_fjords.jpg">
+      <img src="https://img.zcool.cn/community/01d7625fe9677411013fdcc7ce8dda.jpg@1280w_1l_2o_100sh.jpg" alt="Trolltunga Norway" width="300" height="200">
+    </a>
+    <div class="desc">AI矢量国风插画系列1</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="https://img.zcool.cn/community/0168045fe965b911013ee04d02c6bd.jpg@1280w_1l_2o_100sh.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">AI矢量国风插画系列2</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank" href="img_lights.jpg">
+      <img src="https://img.zcool.cn/community/013ec25e3d0a46a80120a895b9315a.jpg@1280w_1l_2o_100sh.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">AI矢量国风插画系列3</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="https://img.zcool.cn/community/013a7e5fe967fb11013ee04db4906e.jpg@1280w_1l_2o_100sh.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">AI矢量国风插画系列4</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div style="padding:6px;">
+  
+  <h4>更多资讯请查看主页栏</h4>
+</div>
+</body>
+</html>
